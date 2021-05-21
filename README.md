@@ -1,3 +1,3 @@
-# Sample_Codes
+# Sample Codes
 
-Readme Sample
+Sample codes in Python, Javascript and R. They are here for educational/backup purposes.
